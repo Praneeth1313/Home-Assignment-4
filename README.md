@@ -1,8 +1,3 @@
-# Home-Assignment-4
-
-# Home-Assignment-4
-
-
 # Home Assignment 4 - Neural Networks and Deep Learning
 
 **Course**: CS5720 Neural Networks and Deep Learning  
